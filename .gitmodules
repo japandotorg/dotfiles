@@ -1,0 +1,3 @@
+[submodule ".dotter/dotter"]
+	path = .dotter/dotter
+	url = https://github.com/SuperCuber/dotter.git
