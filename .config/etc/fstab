@@ -1,0 +1,20 @@
+# /dev/nvme0n1p2
+UUID=27dea3d6-6887-4b7b-afa6-93e9d8fdebe0 / btrfs rw,relatime,nodatasum,nodatacow,ssd,discard=async,space_cache=v2,subvol=/@ 0 0
+
+# /dev/nvme0n1p2
+UUID=27dea3d6-6887-4b7b-afa6-93e9d8fdebe0 /home btrfs rw,relatime,nodatasum,nodatacow,ssd,discard=async,space_cache=v2,subvol=/@home 0 0
+
+# /dev/nvme0n1p2
+UUID=27dea3d6-6887-4b7b-afa6-93e9d8fdebe0 /var/log btrfs rw,relatime,nodatasum,nodatacow,ssd,discard=async,space_cache=v2,subvol=/@log 0 0
+
+# /dev/nvme0n1p2
+UUID=27dea3d6-6887-4b7b-afa6-93e9d8fdebe0 /var/cache/pacman/pkg btrfs rw,relatime,nodatasum,nodatacow,ssd,discard=async,space_cache=v2,subvol=/@pkg 0 0
+
+# /dev/nvme0n1p2
+UUID=27dea3d6-6887-4b7b-afa6-93e9d8fdebe0 /.snapshots btrfs rw,relatime,nodatasum,nodatacow,ssd,discard=async,space_cache=v2,subvol=/@.snapshots 0 0
+
+# /dev/nvme0n1p1
+UUID=5C49-5A13 /boot vfat rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro 0 2
+
+# /dev/sda1
+UUID=fe52a2d2-237e-4e37-ad96-15a42c47e607 /media ext4 defaults,auto 0 0

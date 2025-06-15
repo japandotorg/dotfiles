@@ -1,0 +1,26 @@
+{
+    "editor.fontFamily": "'Comic Mono', 'monospace', monospace",
+    "editor.fontSize": 13,
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.defaultProfile.linux": "Nushell",
+    "editor.minimap.enabled": false,
+    "workbench.productIconTheme": "material-product-icons",
+    "[cue]": {
+        "editor.defaultFormatter": "jallen7usa.vscode-cue-fmt"
+    },
+    "vscord.status.idle.check": false,
+    "vscord.status.idle.enabled": false,
+    "vscord.status.idle.timeout": 30000000000000000000,
+    "vscord.status.problems.text": "",
+    "vscord.status.details.text.debugging": "{file_name}{file_extension}",
+    "vscord.status.details.text.editing": "{workspace}",
+    "vscord.status.details.text.viewing": "{workspace}",
+    "vscord.status.state.text.debugging": "{workspace}",
+    "vscord.status.state.text.editing": "{file_name}{file_extension}",
+    "vscord.status.state.text.viewing": "{file_name}{file_extension}",
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "explorer.confirmDelete": false
+}

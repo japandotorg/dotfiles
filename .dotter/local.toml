@@ -1,0 +1,14 @@
+includes = []
+packages = []
+
+[files]
+".nu/" = "~/.config/nushell/"
+".config/starship.toml" = "~/.config/starship.toml"
+".config/codium/settings.json" = "~/.config/VSCodium/User/settings.json"
+".config/paru.conf" = "~/.config/paru/paru.conf"
+".config/auto/" = "~/.config/autostart/"
+".config/discord/" = "~/.config/Vencord/settings/"
+".config/nvtop/interface.ini" = "~/.config/nvtop/interface.ini"
+
+[variables]
+terminal = "konsole"

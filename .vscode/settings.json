@@ -1,0 +1,11 @@
+{
+    "material-icon-theme.files.associations": {
+        // shell
+        "*.nu": "lolcode",
+        // configurations
+        "*.toml": "yaml",
+        "*.json": "jsconfig",
+        // schema
+        "*.cue": "coconut",
+    }
+}

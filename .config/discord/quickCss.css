@@ -1,0 +1,13 @@
+@import url("https://raw.githubusercontent.com/Pixielart/CustomiseNewOldcord/refs/heads/main/CustomNewOldcord.theme.css");
+
+:root {
+    --font: "Comic Mono", "Comic Neue", sans-serif;
+}
+
+* {
+    font-family: var(--font) !important;
+}
+
+::placeholder {
+    font-family: var(--font) !important;
+}
